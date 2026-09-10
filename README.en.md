@@ -23,6 +23,15 @@ Arrange the small things worth remembering into an everyday map with room to bre
 | sample-11 | sample-12 |
 | ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -55,10 +64,6 @@ Panel 110 is for everyday photographs containing several small objects, routes, 
 | Result | One complete poster pairing faithful reality with a dynamic Scene Map of roughly 4–7 remembered objects |
 | Signature | Real objects, collectible acrylic edges, flexible routes, gentle labels, and breathable space |
 | Source fidelity | Objects retain identity, texture, light, and relationships; the design selects and rearranges rather than cartoonising them |
-
-## Transformation logic
-
-`read everyday relationships → select 4–7 memory objects → retain realistic texture and add acrylic edging → organise a dynamic route by scale and direction → add light labels and nodes → finish with a source-responsive background`
 
 ## Complete capability and boundaries
 
