@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 110｜Japanese-Style Everyday Scene Atlas: picks four to seven memorable things from a photo — food, a drink, a cup, a plant, a pet, a hat, a bike — and lays them out as an everyday scene map of real-looking collectible objects, not drawings: soft natural light, creamy highlights, each object wrapped in a rounded clear acrylic or resin edge with a soft contact shadow, placed in a varied flow (diagonal, S-curve, ring, steps) with size contrast and space, linked by fine dotted lines, curved arrows and route dots, on a background colour matched to the photo, with short labels in a rounded journal-style hand. No fixed four-grid. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-110 or asks for a lifestyle memory map or acrylic collectible object layout from a photo.",
+  "short_description": "日系生活场景图鉴：把照片里四到七件小物做成亚克力包边的真实收藏物，连成一张生活地图",
+  "zh-CN": {
+    "name": "日系生活场景图鉴",
+    "tagline": "把照片里值得记住的小物，整理成一张有路线、有留白的生活地图。",
+    "look": "从照片里挑出四到七样东西，比如一杯咖啡、一块面包、一盆植物、人物的帽子或一辆单车，保持真实拍摄般的质感，不画成卡通。每件物品都被柔和自然光、奶油感高光和清透阴影重新调过色，外面包一圈透明圆润的亚克力或树脂边，带一点厚度和接触阴影，像一枚小收藏品。物件大小不一，沿斜线、S 形、环形或阶梯错落摆放，用细虚线、弧形箭头、路线节点和小圆点轻轻连起来，不用四宫格。背景色按照片的色调来定，可以是奶油色、雾蓝，也可以是砖红、焦糖棕。旁边配圆润手帐感的手写短标签。",
+    "traits": [
+      "真实生活物件",
+      "生活地图",
+      "亚克力收藏质感",
+      "动态路线",
+      "轻巧注释",
+      "日系治愈"
+    ],
+    "good": [
+      "物件多、细节可爱的日常照片：咖啡店的桌面、早餐、书桌、便利店零食",
+      "旅行中的随手拍：街角小店、站台、手里的冰淇淋、行李和车票",
+      "房间、阳台或厨房一角，有几样能单独拿出来的物品"
+    ],
+    "poor": [
+      "只有一个主体、找不出几样小物的照片：纯风景、单人证件照",
+      "需要画成插画、扁平卡通或手绘风格的需求，这一款保留的是真实物件",
+      "想要固定四宫格、整齐等距排列或复杂信息图的需求"
+    ]
+  },
+  "en": {
+    "name": "Japanese-Style Everyday Scene Atlas",
+    "tagline": "Arranges the small things worth remembering in a photo into an everyday map with routes and room to breathe.",
+    "look": "Four to seven things are picked from the photo, such as a coffee, a pastry, a plant, someone's hat or a bicycle, and kept looking like real photographed objects rather than cartoons. Each is regraded with soft natural light, creamy highlights and clear shadows, then wrapped in a rounded, transparent acrylic or resin edge with a little thickness and a contact shadow, like a small collectible. The objects vary in size and are placed along a diagonal, S-curve, ring or staggered steps, lightly linked by fine dotted lines, curved arrows, route nodes and small dots, never a four-square grid. The background colour follows the photo's tones and may be cream or misty blue, or deeper brick red or caramel. Short labels in a rounded, journal-like handwriting sit beside them.",
+    "traits": [
+      "Real everyday objects",
+      "Scene map",
+      "Acrylic collectible feel",
+      "Flowing routes",
+      "Light annotations",
+      "Japanese-style calm"
+    ],
+    "good": [
+      "Everyday photos full of charming objects: a café table, breakfast, a desk, convenience-store snacks",
+      "Casual travel snaps: a corner shop, a station platform, an ice cream in hand, luggage and tickets",
+      "A corner of a room, balcony or kitchen with a few items that can stand on their own"
+    ],
+    "poor": [
+      "Photos with one subject and few objects to pick from: pure landscapes, single ID-style portraits",
+      "Requests for illustration, flat cartoons or a hand-drawn look, since this style keeps real objects",
+      "Requests for a fixed four-square grid, evenly spaced rows or a complex infographic"
+    ]
+  },
+  "ja": {
+    "name": "日本風暮らしのシーン図鑑",
+    "tagline": "写真の中の覚えておきたい小物を、道すじと余白のある暮らしの地図にまとめます。",
+    "look": "写真からコーヒー、パン、鉢植え、人物の帽子、自転車など四〜七つのものを選び、カートゥーンにせず本当に撮ったような質感のまま使います。それぞれを柔らかな自然光、クリームのようなハイライト、澄んだ影で整え、透明で丸みのあるアクリルやレジンの縁で包み、少しの厚みと接地の影をつけて小さなコレクションのように見せます。物の大きさはまちまちで、斜め、S 字、円、階段状に配置し、細い点線、弧を描く矢印、ルートの節点、小さな丸でゆるくつなぎます。四分割のマス目にはしません。背景色は写真の色調に合わせ、クリームや霧のような青のときも、煉瓦色やキャラメル色のときもあります。そばには丸みのある手帳風の手書きラベルが添えられます。",
+    "traits": [
+      "本物の暮らしの物",
+      "シーンマップ",
+      "アクリルのコレクション感",
+      "動きのある道すじ",
+      "軽やかな注記",
+      "日本風の癒やし"
+    ],
+    "good": [
+      "小物が多く細部のかわいい日常写真：カフェのテーブル、朝ごはん、机の上、コンビニのお菓子",
+      "旅先のスナップ：街角の店、駅のホーム、手に持ったアイス、荷物と切符",
+      "単独で取り出せる物がいくつかある部屋、ベランダ、台所の一角"
+    ],
+    "poor": [
+      "主役がひとつで小物を選べない写真：風景だけの写真、証明写真のような人物写真",
+      "イラスト、フラットなカートゥーン、手描き風を求める場合（このスタイルは本物の物を残します）",
+      "決まった四分割、等間隔の整列、複雑なインフォグラフィックを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "일본풍 생활 장면 도감",
+    "tagline": "사진 속 기억하고 싶은 작은 물건들을 동선과 여백이 있는 생활 지도로 정리합니다.",
+    "look": "사진에서 커피, 빵, 화분, 인물의 모자, 자전거처럼 네 가지에서 일곱 가지를 골라, 카툰으로 그리지 않고 실제로 찍은 듯한 질감을 그대로 둡니다. 각 물건은 부드러운 자연광, 크림 같은 하이라이트, 맑은 그림자로 다시 보정되고, 투명하고 둥근 아크릴이나 레진 테두리로 감싸 약간의 두께와 접지 그림자를 더해 작은 수집품처럼 보입니다. 물건은 크기가 제각각이며 사선, S자, 원형, 계단식으로 놓이고, 가는 점선, 곡선 화살표, 경로 점, 작은 동그라미로 가볍게 이어집니다. 네 칸 격자는 쓰지 않습니다. 배경색은 사진의 색조를 따르며 크림이나 안개 낀 파랑일 수도, 벽돌색이나 캐러멜색일 수도 있습니다. 옆에는 둥글고 다이어리 느낌의 손글씨 라벨이 붙습니다.",
+    "traits": [
+      "실제 생활 물건",
+      "장면 지도",
+      "아크릴 수집품 질감",
+      "흐르는 동선",
+      "가벼운 메모",
+      "일본풍 힐링"
+    ],
+    "good": [
+      "물건이 많고 세부가 귀여운 일상 사진: 카페 테이블, 아침 식사, 책상 위, 편의점 간식",
+      "여행 중 찍은 스냅: 골목 가게, 역 플랫폼, 손에 든 아이스크림, 짐과 승차권",
+      "따로 꺼내 보일 만한 물건이 몇 개 있는 방, 발코니, 주방 한쪽"
+    ],
+    "poor": [
+      "주인공이 하나뿐이라 고를 물건이 없는 사진: 풍경만 있는 사진, 증명사진 같은 인물 사진",
+      "일러스트, 평면 카툰, 손그림 느낌을 원하는 경우(이 스타일은 실제 물건을 남깁니다)",
+      "고정된 네 칸 격자, 등간격 정렬, 복잡한 인포그래픽을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "أطلس المشاهد اليومية اليابانية",
+    "tagline": "يرتّب الأشياء الصغيرة الجديرة بالتذكر في الصورة على خريطة يومية فيها مسارات ومساحة للتنفس.",
+    "look": "تُنتقى من الصورة أربعة إلى سبعة أشياء، كفنجان قهوة أو قطعة معجنات أو نبتة أو قبعة شخص أو دراجة، وتبقى بمظهر الأشياء المصوّرة فعلاً لا الرسوم الكرتونية. يُعاد تلوين كل منها بضوء طبيعي ناعم وإضاءات كريمية وظلال صافية، ثم يُحاط بحافة مستديرة شفافة من الأكريليك أو الراتنج لها شيء من السماكة وظل تماس، كقطعة صغيرة من مقتنيات. تتفاوت الأشياء في الحجم وتُوزَّع على خط مائل أو منحنى على شكل S أو حلقة أو درجات متتابعة، وتربطها بخفة خطوط منقطة رفيعة وأسهم مقوسة ونقاط مسار، دون شبكة رباعية أبداً. يتبع لون الخلفية ألوان الصورة، فقد يكون كريمياً أو أزرق ضبابياً، أو أعمق كالأحمر الآجري أو الكراميلي. وبجانبها تسميات قصيرة بخط يد مستدير على طريقة دفاتر المذكرات.",
+    "traits": [
+      "أشياء يومية حقيقية",
+      "خريطة المشهد",
+      "ملمس المقتنيات الأكريليكية",
+      "مسارات متدفقة",
+      "تعليقات خفيفة",
+      "سكينة يابانية الطابع"
+    ],
+    "good": [
+      "صور يومية مليئة بأشياء لطيفة: طاولة مقهى، فطور، مكتب، وجبات خفيفة من متجر صغير",
+      "لقطات سفر عفوية: دكان على ناصية، رصيف محطة، بوظة في اليد، أمتعة وتذاكر",
+      "ركن من غرفة أو شرفة أو مطبخ فيه بضعة أغراض يمكن أن تقف وحدها"
+    ],
+    "poor": [
+      "صور بعنصر واحد وأشياء قليلة للانتقاء: مناظر طبيعية فقط، صور شخصية بأسلوب صور الهوية",
+      "طلب رسم أو كرتون مسطح أو مظهر مرسوم باليد، فهذا الأسلوب يحتفظ بالأشياء الحقيقية",
+      "طلب شبكة رباعية ثابتة أو صفوف متساوية المسافات أو إنفوغرافيك معقد"
+    ]
+  }
+}
